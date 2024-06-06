@@ -71,14 +71,6 @@
       "password": "ang123",
       "role": "visitor",
       "id": "2fee"
-    },
-    {
-      "name": "samy",
-      "email": "sa@gmail.co",
-      "date": "2024-06-05",
-      "password": "1234",
-      "role": "admin",
-      "id": "992a"
     }
   ],
   "reservations": [
@@ -91,6 +83,11 @@
       "flightId": "1",
       "id": "eee8",
       "nameUser": "angie"
+    },
+    {
+      "id": "b821",
+      "flightId": "1",
+      "nameUser": "angelica"
     }
   ]
 }
