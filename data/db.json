@@ -1,0 +1,96 @@
+{
+  "flights": [
+    {
+      "id": "1",
+      "flightNumber": "AB123",
+      "origin": "City A",
+      "destination": "City B",
+      "capacity": 100,
+      "reservedSeats": 50
+    },
+    {
+      "id": "2",
+      "flightNumber": "AB124",
+      "origin": "City A",
+      "destination": "City C",
+      "capacity": 100,
+      "reservedSeats": 50,
+      "image": "apuntar a assets...."
+    },
+    {
+      "id": "3",
+      "flightNumber": "CD345",
+      "origin": "City B",
+      "destination": "City D",
+      "capacity": 150,
+      "reservedSeats": 75,
+      "image": "apuntar a assets...."
+    },
+    {
+      "id": "4",
+      "flightNumber": "EF567",
+      "origin": "City C",
+      "destination": "City E",
+      "capacity": 200,
+      "reservedSeats": 120,
+      "image": "apuntar a assets...."
+    },
+    {
+      "id": "5",
+      "flightNumber": "GH789",
+      "origin": "City D",
+      "destination": "City F",
+      "capacity": 250,
+      "reservedSeats": 150,
+      "image": "apuntar a assets...."
+    },
+    {
+      "id": "6",
+      "flightNumber": "IJ901",
+      "origin": "City E",
+      "destination": "City G",
+      "capacity": 300,
+      "reservedSeats": 180,
+      "image": "apuntar a assets...."
+    },
+    {
+      "id": "7",
+      "flightNumber": "KL123",
+      "origin": "City F",
+      "destination": "City A",
+      "capacity": 350,
+      "reservedSeats": 200,
+      "image": "apuntar a assets...."
+    }
+  ],
+  "users": [
+    {
+      "name": "angelica",
+      "email": "angela@gmail.com",
+      "date": "2024-06-05",
+      "password": "ang123",
+      "role": "visitor",
+      "id": "2fee"
+    },
+    {
+      "name": "samy",
+      "email": "sa@gmail.co",
+      "date": "2024-06-05",
+      "password": "1234",
+      "role": "admin",
+      "id": "992a"
+    }
+  ],
+  "reservations": [
+    {
+      "id": "204d",
+      "flightId": "2",
+      "nameUser": "angelica"
+    },
+    {
+      "flightId": "1",
+      "id": "eee8",
+      "nameUser": "angie"
+    }
+  ]
+}
